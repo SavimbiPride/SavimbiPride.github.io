@@ -1,8 +1,7 @@
 body{
     text-align: center;
-    background-color: blue;
+    background-color: DarkRed;
     color: white;
-    font-family:  'Indie Flower', cursive;
 }
 img{
     max-width: 100%;
@@ -21,7 +20,6 @@ img:hover{
 audio{
     text-align: center;
     display: inline-block;
-    
 }
 a {
     border-radius: 20px;
